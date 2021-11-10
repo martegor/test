@@ -1,0 +1,10 @@
+My second file where I'm writing text for pushing on the main repository
+
+
+So... it will be the second line in my file.
+
+
+And also I would like to write the third line for getting more practise in using terminal and bash
+
+
+It's my the last line of the file.
